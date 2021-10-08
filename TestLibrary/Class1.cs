@@ -1,6 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace AspCalTest
+namespace TestLibrary
 {
     [TestClass]
     public class CalculatorTest
