@@ -20,4 +20,3 @@ D:\Deejay\AspCal\AspCalTest\obj\Debug\netcoreapp2.1\AspCalTest.pdb
 D:\Deejay\AspCal\AspCalTest\obj\Debug\netcoreapp2.1\AspCalTest.genruntimeconfig.cache
 D:\Deejay\AspCal\AspCalTest\bin\Debug\netcoreapp2.1\AspcalDll.dll
 D:\Deejay\AspCal\AspCalTest\bin\Debug\netcoreapp2.1\AspcalDll.pdb
-D:\Deejay\AspCal\AspCalTest\obj\Debug\netcoreapp2.1\AspCalTest.csproj.CopyComplete
