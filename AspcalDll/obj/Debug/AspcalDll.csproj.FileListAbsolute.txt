@@ -1,0 +1,6 @@
+D:\Deejay\AspCal\AspcalDll\bin\Debug\AspcalDll.dll
+D:\Deejay\AspCal\AspcalDll\bin\Debug\AspcalDll.pdb
+D:\Deejay\AspCal\AspcalDll\obj\Debug\AspcalDll.csproj.AssemblyReference.cache
+D:\Deejay\AspCal\AspcalDll\obj\Debug\AspcalDll.csproj.CoreCompileInputs.cache
+D:\Deejay\AspCal\AspcalDll\obj\Debug\AspcalDll.dll
+D:\Deejay\AspCal\AspcalDll\obj\Debug\AspcalDll.pdb
