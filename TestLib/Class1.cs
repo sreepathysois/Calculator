@@ -2,12 +2,13 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Web;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace AspCal
+namespace TestLib
 {
     [TestFixture]
-    public class CalNunit
+    public class Class1
     {
         [TestCase]
         public void Test_Add()

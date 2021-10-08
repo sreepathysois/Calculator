@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspCal", "AspCal\AspCal.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspcalDll", "AspcalDll\AspcalDll.csproj", "{CD3B6855-56A7-4F4A-A68E-B5B31908BF40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLib", "TestLib\TestLib.csproj", "{D4F5F55D-326E-4282-AF51-03EB6E0FF02C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,9 @@ Global
 		{CD3B6855-56A7-4F4A-A68E-B5B31908BF40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CD3B6855-56A7-4F4A-A68E-B5B31908BF40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD3B6855-56A7-4F4A-A68E-B5B31908BF40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4F5F55D-326E-4282-AF51-03EB6E0FF02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F5F55D-326E-4282-AF51-03EB6E0FF02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F5F55D-326E-4282-AF51-03EB6E0FF02C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
