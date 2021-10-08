@@ -58,4 +58,3 @@ D:\Deejay\AspCal\AspCal\obj\Debug\AspCal.dll
 D:\Deejay\AspCal\AspCal\obj\Debug\AspCal.pdb
 D:\Deejay\AspCal\AspCal\bin\AspcalDll.dll
 D:\Deejay\AspCal\AspCal\bin\AspcalDll.pdb
-D:\Deejay\AspCal\AspCal\obj\Debug\AspCal.csproj.CopyComplete
