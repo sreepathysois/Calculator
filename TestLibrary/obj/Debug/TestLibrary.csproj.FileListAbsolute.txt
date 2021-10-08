@@ -1,15 +1,8 @@
-D:\Deejay\AspCal\TestLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-D:\Deejay\AspCal\TestLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-D:\Deejay\AspCal\TestLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-D:\Deejay\AspCal\TestLibrary\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
 D:\Deejay\AspCal\TestLibrary\bin\Debug\TestLibrary.dll
 D:\Deejay\AspCal\TestLibrary\bin\Debug\TestLibrary.pdb
 D:\Deejay\AspCal\TestLibrary\bin\Debug\AspcalDll.dll
-D:\Deejay\AspCal\TestLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
-D:\Deejay\AspCal\TestLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Deejay\AspCal\TestLibrary\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 D:\Deejay\AspCal\TestLibrary\bin\Debug\AspcalDll.pdb
-D:\Deejay\AspCal\TestLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
-D:\Deejay\AspCal\TestLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 D:\Deejay\AspCal\TestLibrary\obj\Debug\TestLibrary.csproj.AssemblyReference.cache
 D:\Deejay\AspCal\TestLibrary\obj\Debug\TestLibrary.csproj.CoreCompileInputs.cache
 D:\Deejay\AspCal\TestLibrary\obj\Debug\TestLibrary.csproj.CopyComplete
