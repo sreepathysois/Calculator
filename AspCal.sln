@@ -5,11 +5,7 @@ VisualStudioVersion = 16.0.31727.386
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspCal", "AspCal\AspCal.csproj", "{812C3107-342D-47AF-AE26-33AE321C7548}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspCalTest", "AspCalTest\AspCalTest.csproj", "{53B0EE87-5653-4DA4-856E-1D0FF8ED6B26}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspcalDll", "AspcalDll\AspcalDll.csproj", "{CD3B6855-56A7-4F4A-A68E-B5B31908BF40}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLibrary", "TestLibrary\TestLibrary.csproj", "{6FA550BF-A1B2-4295-84AA-478C0EF129F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,15 +17,9 @@ Global
 		{812C3107-342D-47AF-AE26-33AE321C7548}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{812C3107-342D-47AF-AE26-33AE321C7548}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{812C3107-342D-47AF-AE26-33AE321C7548}.Release|Any CPU.Build.0 = Release|Any CPU
-		{53B0EE87-5653-4DA4-856E-1D0FF8ED6B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{53B0EE87-5653-4DA4-856E-1D0FF8ED6B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{53B0EE87-5653-4DA4-856E-1D0FF8ED6B26}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CD3B6855-56A7-4F4A-A68E-B5B31908BF40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CD3B6855-56A7-4F4A-A68E-B5B31908BF40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD3B6855-56A7-4F4A-A68E-B5B31908BF40}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6FA550BF-A1B2-4295-84AA-478C0EF129F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6FA550BF-A1B2-4295-84AA-478C0EF129F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6FA550BF-A1B2-4295-84AA-478C0EF129F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
