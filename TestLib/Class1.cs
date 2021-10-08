@@ -16,7 +16,7 @@ namespace TestLib
             //Arrange
             int expected = 12;
             int val1 = 8;
-            int val2 = 4;
+            int val2 = 3;
 
             //Act
             int actual = AspcalDll.Calculator.Add(val1, val2);
@@ -45,7 +45,7 @@ namespace TestLib
             //Arrange
             int expected = 32;
             int val1 = 8;
-            int val2 = 4;
+            int val2 = 3;
 
             //Act
             int actual = AspcalDll.Calculator.Mul(val1, val2);
